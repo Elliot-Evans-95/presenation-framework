@@ -13,7 +13,7 @@
     "@babel/core": "^7.2.2",
     "@babel/plugin-proposal-object-rest-spread": "^7.3.1",
     "@types/jest": "^24.0.11",
-    "highlight.js": "^9.15.6",
+    "highlight.js": "^10.4.1",
     "jest": "^24.3.1",
     "jsdom-wc": "^11.0.0-alpha-1",
     "parcel-bundler": "^1.11.0",

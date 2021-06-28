@@ -17,7 +17,7 @@
     "jest": "^24.3.1",
     "jsdom-wc": "^11.0.0-alpha-1",
     "parcel-bundler": "^1.11.0",
-    "prismjs": "^1.16.0",
+    "prismjs": "^1.24.0",
     "ts-jest": "^24.0.0",
     "typescript": "^3.3.3333"
   }
